@@ -1,0 +1,40 @@
+
+body{
+	background: #000030;
+	margin: auto;
+	padding: auto;
+	font-family: purisa;
+}
+
+div {
+	color: #2B65EC;
+	text-align: center;
+	font-weight: bold;
+	font-size: 36px;
+	}
+
+div .photo{
+	height: 500px;
+}
+
+div h2{
+	font-size: 35px;
+}
+
+div .button{
+	text-align: center;
+	font-size: 40px;
+	color: #FDD017;
+	background-color: #FF2400;
+	border: 5px solid #FDD017;
+	border-radius: 50%;
+	padding: 10px 100px;
+	font-family: purisa;
+	
+}
+
+figcaption{
+	color: #2B65EC;
+	text-align: center;
+	font-size: 20px;
+}
